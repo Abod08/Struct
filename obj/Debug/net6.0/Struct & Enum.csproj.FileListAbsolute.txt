@@ -1,0 +1,15 @@
+C:\Users\Abod\OneDrive\Desktop\Struct\bin\Debug\net6.0\Struct & Enum.exe
+C:\Users\Abod\OneDrive\Desktop\Struct\bin\Debug\net6.0\Struct & Enum.deps.json
+C:\Users\Abod\OneDrive\Desktop\Struct\bin\Debug\net6.0\Struct & Enum.runtimeconfig.json
+C:\Users\Abod\OneDrive\Desktop\Struct\bin\Debug\net6.0\Struct & Enum.dll
+C:\Users\Abod\OneDrive\Desktop\Struct\bin\Debug\net6.0\Struct & Enum.pdb
+C:\Users\Abod\OneDrive\Desktop\Struct\obj\Debug\net6.0\Struct & Enum.csproj.AssemblyReference.cache
+C:\Users\Abod\OneDrive\Desktop\Struct\obj\Debug\net6.0\Struct & Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abod\OneDrive\Desktop\Struct\obj\Debug\net6.0\Struct & Enum.AssemblyInfoInputs.cache
+C:\Users\Abod\OneDrive\Desktop\Struct\obj\Debug\net6.0\Struct & Enum.AssemblyInfo.cs
+C:\Users\Abod\OneDrive\Desktop\Struct\obj\Debug\net6.0\Struct & Enum.csproj.CoreCompileInputs.cache
+C:\Users\Abod\OneDrive\Desktop\Struct\obj\Debug\net6.0\Struct & Enum.dll
+C:\Users\Abod\OneDrive\Desktop\Struct\obj\Debug\net6.0\refint\Struct & Enum.dll
+C:\Users\Abod\OneDrive\Desktop\Struct\obj\Debug\net6.0\Struct & Enum.pdb
+C:\Users\Abod\OneDrive\Desktop\Struct\obj\Debug\net6.0\Struct & Enum.genruntimeconfig.cache
+C:\Users\Abod\OneDrive\Desktop\Struct\obj\Debug\net6.0\ref\Struct & Enum.dll
